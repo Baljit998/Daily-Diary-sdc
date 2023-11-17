@@ -1,9 +1,10 @@
-# Daily Diary - [Baljit Singh]
+# 6 Months Training Daily Diary - [Baljit Singh]
 
 ## Month: [August]
 
 ### :fast_forward: Day 1
-- Woke up early and went for a morning jog.
+- Tutorial of Webpage in Frappe
+Making Webpage 
 - Attended a productive meeting at work.
 - Started reading a new book before bedtime.
 
