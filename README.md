@@ -1,6 +1,6 @@
-# Daily Diary - [Your Name]
+# Daily Diary - [Baljit Singh]
 
-## Month 1: [Month Name]
+## Month: [August]
 
 ### :fast_forward: Day 1
 - Woke up early and went for a morning jog.
@@ -14,7 +14,7 @@
 
 ... (continue for each day)
 
-## Month 2: [Month Name]
+## Month: [September]
 
 ### :fast_forward: Day 1
 - Participated in a weekend hiking trip.
@@ -28,11 +28,15 @@
 
 ... (continue for each day)
 
-## Month 3: [Month Name]
+## Month: [October]
 
 ... (repeat the structure for the remaining months)
 
-## Month 6: [Month Name]
+## Month: [November]
+
+... (repeat the structure for the remaining months)
+
+## Month: [December]
 
 ### :fast_forward: Day 1
 - Reflecting on the past 6 months.
