@@ -3,15 +3,24 @@
 ## Month: [August]
 
 ### :fast_forward: Day 1
-- Tutorial of Webpage in Frappe
-Making Webpage 
-- Attended a productive meeting at work.
-- Started reading a new book before bedtime.
+- Tutorial of Webpage in Frappe.
+- Making Webpage.
 
 ### :fast_forward: Day 2
-- Worked on a challenging project at work.
-- Met a friend for coffee in the evening.
-- Practiced meditation before sleep.
+- Another Webpage.
+- Setup Virtual Machine.
+
+### :fast_forward: Day 3
+- Installed Bitnami ErpNext Package.
+- Configured It.
+
+### :fast_forward: Day 4
+- Installed Ubuntu Alongside Window.
+- Following Tutorial to Install ErpNext https://discuss.frappe.io/t/guide-how-to-install-erpnext-v14-on-linux-ubuntu-step-by-step-instructions/92960
+
+### :fast_forward: Day 5
+- Explored Frappe Cloud https://frappecloud.com/frappe/signup
+- 
 
 ... (continue for each day)
 
