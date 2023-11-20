@@ -142,15 +142,22 @@
 ### :fast_forward: Day 1
 - Started Noticeboard App.
 
-### :fast_forward: Day 1
+### :fast_forward: Day 2
+- Gathering requirement for Noticeboard app.
+- Understanding the previous noticeboard app.
 
-### :fast_forward: Day 1
+### :fast_forward: Day 3
+- Rectifying some issue in the exp.gndec.ac.in
+- Updated the user on the exp.gndec.ac.in.
 
-### :fast_forward: Day 1
+### :fast_forward: Day 4
+- Attended Presentation on noticeboard app.
 
-### :fast_forward: Day 1
+### :fast_forward: Day 5
+- Helped fellow member to work on web page for notice app.
 
-### :fast_forward: Day 1
+### :fast_forward: Day 6
+- 
 
 ### :fast_forward: Day 1
 
