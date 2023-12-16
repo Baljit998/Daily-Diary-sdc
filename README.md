@@ -169,7 +169,7 @@
 - Send a pull request for instructions related to Form.
 
 ### ⏩ Day 10
-- Final Output of exam form (Sample Form)[https://github.com/GreatDevelopers/DeployERP/blob/main/ExamForm/GetPDFStudentSelfServiceEF0009.pdf]
+- Final Output of exam form [Sample Form](https://github.com/GreatDevelopers/DeployERP/blob/main/ExamForm/GetPDFStudentSelfServiceEF0009.pdf)
 
 ### ⏩ Day 11
 - Installed Meeting app for fellow student on exp.gndec.ac.in.
