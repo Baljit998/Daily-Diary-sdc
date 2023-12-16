@@ -141,6 +141,7 @@
 
 ### ⏩ Day 1
 - Started Noticeboard App.
+- And also started F-drive for GNDEC College.
 
 ### ⏩ Day 2
 - Gathering requirement for Noticeboard app.
@@ -157,25 +158,42 @@
 - Helped fellow member to work on web page for notice app.
 
 ### ⏩ Day 6
-- 
+- Working on Exam Form for named EXAMINATION FORM MINOR DEGREE CUM ADMIT CARD
+- Created all the fields and components of the form.
 
-### ⏩ Day 1
+### ⏩ Day 7
+- Made the Print format for the form.
+- Added header and footer.
+  
+### ⏩ Day 8
+- Send a pull request for instructions related to Form.
 
-### ⏩ Day 1
+### ⏩ Day 10
+- Final Output of exam form (Sample Form)[https://github.com/GreatDevelopers/DeployERP/blob/main/ExamForm/GetPDFStudentSelfServiceEF0009.pdf]
 
-### ⏩ Day 1
+### ⏩ Day 11
+- Installed Meeting app for fellow student on exp.gndec.ac.in.
+  
+### ⏩ Day 12
+- Started on Raven app
+- It is an messaging app for user to interact
 
-### ⏩ Day 1
+### ⏩ Day 13
+- Worked on import student data.
 
-### ⏩ Day 1
+### ⏩ Day 14
+- Created a php code to upload csv file and store it in the mysql database.
 
+### ⏩ Day 15
+- Worked on Fetching values in web Form.
 
+### ⏩ Day 16
+- Learn Email and phone field validation.
 
 
 
 ## Month: [November]
 
-... (repeat the structure for the remaining months)
 
 ## Month: [December]
 
