@@ -70,7 +70,7 @@
 - Sunday Funday :)
 
 ### ⏩ Day 21
-- 
+- Decided my app F-Drive which can store documents and many more.
   
 
 
@@ -168,33 +168,103 @@
 ### ⏩ Day 8
 - Send a pull request for instructions related to Form.
 
-### ⏩ Day 10
+### ⏩ Day 9
 - Final Output of exam form [Sample Form](https://github.com/GreatDevelopers/DeployERP/blob/main/ExamForm/GetPDFStudentSelfServiceEF0009.pdf)
 
-### ⏩ Day 11
+### ⏩ Day 10
 - Installed Meeting app for fellow student on exp.gndec.ac.in.
   
-### ⏩ Day 12
+### ⏩ Day 11
 - Started on Raven app
 - It is an messaging app for user to interact
 
-### ⏩ Day 13
+### ⏩ Day 12
 - Worked on import student data.
 
-### ⏩ Day 14
+### ⏩ Day 13
 - Created a php code to upload csv file and store it in the mysql database.
 
-### ⏩ Day 15
+### ⏩ Day 14
 - Worked on Fetching values in web Form.
 
-### ⏩ Day 16
+### ⏩ Day 15
 - Learn Email and phone field validation.
 
 
 
 ## Month: [November]
 
+### ⏩ Day 1
+- Made a Linux virtual Machine.
 
+### ⏩ Day 2
+- Installed ErpNext Version 15 in VirtualBox.
+
+### ⏩ Day 3
+- Gave Presentation on Installing Ubuntu Server in Virtual Box.
+
+### ⏩ Day 4
+- Made Changes to the Tutorial according to feedback received.
+
+### ⏩ Day 5
+- Started Creating Exam Form for some Gndec students.
+
+### ⏩ Day 6
+- Added all the required Field and Made the Print Format for the app.
+
+### ⏩ Day 7
+- Added instructions, admission year dropdown.
+- Made all fields mandatory, User can see only his/her form.
+- Fixed Course B.Tech as default.
+
+### ⏩ Day 8
+- Made a Exam Form tutorial for students.
+
+### ⏩ Day 9
+- Launched the Form Named EXAMMINATION FORM MINOR DEGREE CUM ADMIT CARD.
+  
+### ⏩ Day 10
+- Continue work on F-Drive.
+
+### ⏩ Day 11
+- Started Learning Vue.js for F-drive app.
+- Updating my learning at [Vue js](https://baljit998.github.io/Vuejs/)
+
+### ⏩ Day 12
+- Installed Meeting app of fellow member at [Exp](exp.gndec.ac.in)
+
+### ⏩ Day 13
+- Got a task to upload a csv file by creating a site using php.
+
+### ⏩ Day 14
+- Conpleted the task, user can store csv file data and iy get store in mysql database.
+- Repository for import php is at [Csv Upload](https://github.com/Baljit998/importphp)
+
+### ⏩ Day 15
+-  Helped fellow member to install GUI on linux named xfce.
+-  Tested the Raven messaging app.
+
+### ⏩ Day 16
+- Continue work on F-Drive again.
+- Enabled Ldap Login so that GNDEC student can directly login by using there academics/internet login credentials at [F-Drive](exp.gndec.ac.in)
+- And Finaly access the F- Drive App.
+
+### ⏩ Day 17
+- Got a task by Satinder sir to fetch full name in student registration form.
+- Added column break and page break to make the form beautiful.
+
+### ⏩ Day 18
+- Completed the task by fetching fullname, date of birth, email, gender.
+- Also added validation for email and mobile number.
+
+### ⏩ Day 19
+- Tested the form and created steps to register for new admission.
+- Created a Registration Form for nspsg school.
+
+### ⏩ Day 20
+- Starting testing the F-Drive app.
+
+  
 ## Month: [December]
 
 ### ⏩ Day 1
@@ -203,6 +273,9 @@
 - Grateful for the experiences and growth.
 
 ### ⏩ Day 2
+- Continue work on F-Drive.
+
+### ⏩ Final Day
 - Celebrated the completion of the daily diary!
 - Planning a special activity for tomorrow.
 
