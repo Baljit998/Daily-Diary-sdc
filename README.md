@@ -231,7 +231,7 @@
 - Updating my learning at [Vue js](https://baljit998.github.io/Vuejs/)
 
 ### ⏩ Day 12
-- Installed Meeting app of fellow member at [Exp](exp.gndec.ac.in)
+- Installed Meeting app of fellow member at [Exp](https://exp.gndec.ac.in)
 
 ### ⏩ Day 13
 - Got a task to upload a csv file by creating a site using php.
@@ -246,7 +246,7 @@
 
 ### ⏩ Day 16
 - Continue work on F-Drive again.
-- Enabled Ldap Login so that GNDEC student can directly login by using there academics/internet login credentials at [F-Drive](exp.gndec.ac.in)
+- Enabled Ldap Login so that GNDEC student can directly login by using there academics/internet login credentials at [F-Drive](https://exp.gndec.ac.in)
 - And Finaly access the F- Drive App.
 
 ### ⏩ Day 17
@@ -264,6 +264,7 @@
 ### ⏩ Day 20
 - Starting testing the F-Drive app.
 
+
   
 ## Month: [December]
 
@@ -273,7 +274,55 @@
 - Grateful for the experiences and growth.
 
 ### ⏩ Day 2
-- Continue work on F-Drive.
+- Added User Group Functionality on F-Drive.
+
+### ⏩ Day 3
+- Today I installed Ubuntu 22.04.03.
+- Installed Frappe and ERPNext Version 15.
+
+### ⏩ Day 4
+- Started and Completed doctor appointment app.
+- Completed a tldraw whiteboard app.
+
+### ⏩ Day 5
+- Added Preview of image, video, PDf, docx and spreadsheet in the F-Drive App.
+
+### ⏩ Day 6
+- Started Learning Microsoft Azure.
+- Made a linux machine on azure.
+
+### ⏩ Day 7
+- Got a Domain named underhood.online.
+- Mapped my Domain with the Ip address of the azure machine.
+- Installed ErpNext in Production on my site named [Underhood](https://frappe.underhood.online)
+
+### ⏩ Day 8
+- Learned more about Vue.js like its components, structure, installation etc.
+
+### ⏩ Day 9
+- Undestand the workflow of the education app and made a flow diagram [Education flow](https://github.com/Baljit998/Userpermission/blob/main/Untitled%20Diagram.drawio.png?raw=true) 
+
+### ⏩ Day 10
+- Again Working on the drive app.
+- Fixed the url-redirect.
+
+### ⏩ Day 11
+- Created two branches main and mydev and fixed some git conflicts.
+
+### ⏩ Day 12
+- Helped fellow member to install helpdesk app on site.
+
+### ⏩ Day 13
+- Gave Presentation on F-Drive.
+- Discussed the changes.
+
+### ⏩ Day 14
+- Started Learning Next.js.
+- Reading offcial Documentations and tutorials.
+
+### ⏩ Day 15
+- Build my Portfolio using next.js.
+- Deployed my Portfolio at [Baljit Portfolio](https://baljit998.github.io/Space-portfolio/)
 
 ### ⏩ Final Day
 - Celebrated the completion of the daily diary!
