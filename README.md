@@ -324,8 +324,29 @@
 - Build my Portfolio using next.js.
 - Deployed my Portfolio at [Baljit Portfolio](https://baljit998.github.io/Space-portfolio/)
 
-### ⏩ Final Day
-- Celebrated the completion of the daily diary!
-- Planning a special activity for tomorrow.
+### ⏩ Day 16
+- Text editor Feature in F-drive.
+- Export document as PDF.
 
-... (continue for the last days of the diary)
+### ⏩ Day 17
+- User Group feature in F-Drive.
+- Share Files wth User Group members.
+
+### ⏩ Day 18
+- Learn Nextjs and make a dropbox clone.
+- DropBox clone is available at [DropBox Clone](https://underhood.online)
+- It uses nextjs, chadcn, clerk for authentication, firebase for storage.
+
+### ⏩ Day 19
+- Installed Frappe Version 15 on college.
+- Reset the mysql root password.
+- Update the dependency.
+- It is installed on domain [exp](https://exp.gndec.ac.in).
+
+### ⏩ Day 20
+- Gave another Presentation on F-drive.
+
+### ⏩ Final Day
+- Marked the successful completion of training!
+- Excited about applying newfound skills and knowledge.
+
